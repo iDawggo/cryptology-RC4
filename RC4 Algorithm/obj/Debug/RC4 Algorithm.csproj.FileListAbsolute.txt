@@ -1,0 +1,16 @@
+E:\C#\RC4 Algorithm\RC4 Algorithm\bin\Debug\RC4 Algorithm.exe.config
+E:\C#\RC4 Algorithm\RC4 Algorithm\bin\Debug\RC4 Algorithm.exe
+E:\C#\RC4 Algorithm\RC4 Algorithm\bin\Debug\RC4 Algorithm.pdb
+E:\C#\RC4 Algorithm\RC4 Algorithm\obj\Debug\MainWindow.g.cs
+E:\C#\RC4 Algorithm\RC4 Algorithm\obj\Debug\App.g.cs
+E:\C#\RC4 Algorithm\RC4 Algorithm\obj\Debug\RC4 Algorithm_MarkupCompile.cache
+E:\C#\RC4 Algorithm\RC4 Algorithm\obj\Debug\RC4 Algorithm_MarkupCompile.lref
+E:\C#\RC4 Algorithm\RC4 Algorithm\obj\Debug\MainWindow.baml
+E:\C#\RC4 Algorithm\RC4 Algorithm\obj\Debug\RC4 Algorithm.g.resources
+E:\C#\RC4 Algorithm\RC4 Algorithm\obj\Debug\RC4_Algorithm.Properties.Resources.resources
+E:\C#\RC4 Algorithm\RC4 Algorithm\obj\Debug\RC4 Algorithm.csproj.GenerateResource.cache
+E:\C#\RC4 Algorithm\RC4 Algorithm\obj\Debug\RC4 Algorithm.csproj.CoreCompileInputs.cache
+E:\C#\RC4 Algorithm\RC4 Algorithm\obj\Debug\RC4 Algorithm.exe
+E:\C#\RC4 Algorithm\RC4 Algorithm\obj\Debug\RC4 Algorithm.pdb
+E:\C#\RC4 Algorithm\RC4 Algorithm\obj\Debug\RC4 Algorithm.csproj.AssemblyReference.cache
+E:\C#\RC4 Algorithm\RC4 Algorithm\obj\Debug\RC4 Algorithm.csproj.SuggestedBindingRedirects.cache
